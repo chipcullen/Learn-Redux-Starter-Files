@@ -1,0 +1,1737 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"b",
+				"buttonSpinner"
+			],
+			[
+				"token",
+				"tokeninput"
+			],
+			[
+				"button",
+				"buttonDefault"
+			],
+			[
+				"error",
+				"errorContainer"
+			],
+			[
+				"toke",
+				"tokenInput"
+			],
+			[
+				"las",
+				"lastFocusableEl"
+			],
+			[
+				"last",
+				"lastFocusableElement"
+			],
+			[
+				"focs",
+				"focusTarget"
+			],
+			[
+				"clos",
+				"closeButton"
+			],
+			[
+				"focu",
+				"focusTarget"
+			],
+			[
+				"foc",
+				"focusTarget"
+			],
+			[
+				"d",
+				"d-b\tdisplay: block;"
+			],
+			[
+				"on",
+				"onLazyLoaded"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"col",
+				"collections"
+			],
+			[
+				"bp",
+				"bp\tbreakpoint"
+			],
+			[
+				"me",
+				"mediaHeroVideo"
+			],
+			[
+				"_re",
+				"_responsiveAttribute"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"image",
+				"imagePath"
+			],
+			[
+				"_setImage",
+				"_setImageAttribute"
+			],
+			[
+				"is",
+				"isTouchDevice"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"remo",
+				"removeAriaLive"
+			],
+			[
+				"user",
+				"userTrigger"
+			],
+			[
+				"auto",
+				"autoPlay"
+			],
+			[
+				"scro",
+				"scrollY"
+			],
+			[
+				"soc",
+				"socialMediaRect"
+			],
+			[
+				"fa",
+				"facebookDiv"
+			],
+			[
+				"_set",
+				"_setupTweetCarousel"
+			],
+			[
+				"show",
+				"showDesktopUserMenu"
+			],
+			[
+				"hid",
+				"hideDesktopUserMenu"
+			],
+			[
+				"_sh",
+				"_showMobileUserMenu"
+			],
+			[
+				"ov",
+				"overflow-y: "
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"gray",
+				"gray-light\t _bootstrap-variables.scss"
+			],
+			[
+				"typ",
+				"typography-truncate()\t _mixins.scss"
+			],
+			[
+				"ext",
+				"ext\t@extend"
+			],
+			[
+				"mix",
+				"mixin\t@mixin"
+			],
+			[
+				"inc",
+				"include\t@include"
+			],
+			[
+				"ls",
+				"list-style-image"
+			],
+			[
+				"mobil",
+				"mobile-menu-ratio"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"regsit",
+				"registerLink"
+			],
+			[
+				"regist",
+				"registerLink"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"fra",
+				"fragmentImg"
+			],
+			[
+				"PB",
+				"PBS-MOBILE"
+			],
+			[
+				"PBS-",
+				"PBS-MOBILE"
+			],
+			[
+				"comment",
+				"comment\tDjango template comment"
+			],
+			[
+				"else",
+				"else\tDjango template else part of if statement"
+			],
+			[
+				"elif",
+				"elif\tDjango template elif part of if statement"
+			],
+			[
+				"if",
+				"if\tDjango template if statement"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"swap",
+				"swapText"
+			],
+			[
+				"video",
+				"videoId"
+			],
+			[
+				"remov",
+				"removeClass"
+			],
+			[
+				"pl",
+				"placeholderDiv"
+			],
+			[
+				"togg",
+				"toggleClass"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"content",
+				"contentstring"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1921,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "devServer.js",
+			"settings":
+			{
+				"buffer_size": 613,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "prett",
+		"selected_items":
+		[
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ss jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"git bra",
+				"Git: Change Branch"
+			],
+			[
+				"git re",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git ",
+				"Git: Diff Current File"
+			],
+			[
+				"int",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"diff",
+				"Git: Diff All Files"
+			],
+			[
+				"git di",
+				"Git: Diff Current File"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git fetch",
+				"Git: Fetch"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git fet",
+				"Git: Fetch"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack di",
+				"Package Control: Disable Package"
+			],
+			[
+				"ss mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ss sc",
+				"Set Syntax: SCSS"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"ss scs",
+				"Set Syntax: SCSS"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ss css",
+				"Set Syntax: CSS"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ss sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"file pa",
+				"File: Copy Path as URI"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"ss",
+				"Snippet: spacing"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set sy rea",
+				"Set Syntax: React Templates"
+			],
+			[
+				"set jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"set jos",
+				"Set Syntax: JSON"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"set htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"set hm",
+				"Set Syntax: HTML"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"set dj",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"set py",
+				"Set Syntax: Python"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"syntax py",
+				"Set Syntax: Python"
+			],
+			[
+				"snip comm",
+				"Snippet: Django template comment"
+			]
+		],
+		"width": 475.0
+	},
+	"console":
+	{
+		"height": 173.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/chip/Learn-Redux-Starter-Files/learn-redux"
+	],
+	"file_history":
+	[
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/watchlist.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/scripts/passport.js",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/pages.py",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/views/passport.py",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/passport/sass/_passport-form.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/passport/sass/_passport-shared.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/sass/watchlist.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/settings.py",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/sass/global/_buttons.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/passport/login_confirm.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/passport/activation.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/passport/sass/_passport-station-container.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/passport/login.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/passport/sass/_passport-header.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/sass/includes/_variables.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/passport/sass/_passport-sign-in.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/passport/congrats.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/passport/sass/_passport-congrats.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/search-results/sass/_header.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/passport/lookup.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/sass/passport.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/passport/sass/_passport-lookup.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/passport/passport.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/sign-in/sign-in.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/sass/global/_forms.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/passport/base.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/scripts/passport-lookup.js",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/passport/lookup-member-not-found.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/passport/sass/passport.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/passport/sass/_passport-activation-form.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/passport/sass/passport-header.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/sass/includes/_colors.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/images/ellipsis.svg",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/tests/integration/viewtests/test_passport_views.py",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/base.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templatetags/content_helpers.py",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/passport-landing.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/page-footer/footer.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/social-media/social-media.js",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/video/popover/video.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/sass/global.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/closed-captioning.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/sass/_includes.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/video/block/video.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/video/player/video.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/home.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/verticals/verticals.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/page-header/user.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/analytics/analytics.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/views/video.py",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/tests/integration/viewtests/test_video_views.py",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/views/video_landing.py",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/show/filter-form/show-filter-bar.js",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/sass/global/_type.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/show.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/show/bar/show.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/video/summary/video.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/video.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/video-landing.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/video/grid/video.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/carousel/video-landing/carousel.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/page-header/station.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/page-header/header.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/page-header/search.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/page-header/tv_schedules.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/station/station.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/page-header/shows.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/page-header/shop.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/scripts/_smooth-scrolling.js",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/carousel/show-strip/carousel.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/store/featured.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/carousel/verticals/carousel.js",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/schedule/schedule.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/video/block/video.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/page-header/sass/user.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/show/bar/show.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/sass/includes/_mixins.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/page-header/sass/station.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/page-header/sass/shows.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/video/report_problem.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/video/player/video.js",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/video/player/embed-modal.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/modal-window/modal-window.js",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/modal-window/heavy-traffic.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/campaign-modal/campaign-modal.js",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/page-header/modal_campaign.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/favorite-shows/favorite-shows-no-videos.js",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/watchlist/watchlist-no-list.js",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/viewing-history/viewing-history-no-list.js",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/page-header/js/sign-in.js",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/sign-in/sign-in.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/page-header/modal_window.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/scripts/_buttons.js",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/video/forms/report-a-problem.js",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/modal/modal.js",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/carousel/show/carousel.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static/css/home.css",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/campaign-modal/campaign-modal.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/sass/global/_print.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/sass/global/_progress-bars.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static/css/global.css",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/sass/global/_base.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/sass/global/_structure.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/templates/carousel/favorite-show/carousel.html",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/sass/global/_grid.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/sass/global/_responsive-utilities.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/sass/global/_normalize.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/christmas-campaign/christmas-campaign.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/sass/global/_bootstrap-modals.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/sass/global/_component-animations.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/sass/global/_scaffolding.scss",
+		"/Users/chip/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_responsive-visibility.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_image.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_progress-bar.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_vendor-prefixes.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/bower_components/jquery-ui/themes/base/progressbar.css",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/carousel/hero/carousel.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/station/station.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/collections/collections.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/show/block/show.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/search-results/sass/_result-items.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/sass/global/_tables.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/video/catalog/video.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/media-hero/media-hero.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/producer/featured-content/producer.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/store/items/store.scss",
+		"/Users/chip/PBS/vagrant-pbs/pbsorg/pbsorg/pbsorg/static_src/components/video/player/video.scss"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 121.0,
+		"where_history":
+		[
+			"",
+			"passport/*.html",
+			"",
+			"*.html",
+			"passport/*.html",
+			"*.html",
+			"",
+			"*.js",
+			"",
+			"*.html",
+			"*.js",
+			"*.py",
+			"*.scss",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.scss",
+			"*.js",
+			"",
+			"*.html",
+			"",
+			"*.html",
+			"*.scss",
+			"*.html",
+			"*.scss",
+			"*.html",
+			"static_src/bower_components/**/*.scss",
+			"",
+			"*.scss",
+			"",
+			"*.scss",
+			"*.html",
+			"*.scss",
+			"*.html",
+			"*.scss",
+			"*.html",
+			"*.scss",
+			"*.py",
+			"",
+			"*.scss",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.html",
+			"*.py",
+			"",
+			"*.html",
+			"*.py",
+			"*.scss, *.html, *js",
+			"*.scss, *.html",
+			"*.scss",
+			"",
+			"*.js",
+			"*.html",
+			"*.js",
+			"*.html",
+			"*.scss",
+			"*.html",
+			"*.scss",
+			"*.js",
+			"*.scss",
+			"*.html",
+			"",
+			"*.js",
+			"templates/*.html, templates/**/*.html, static_src/**/*.scss, static_src/components/**/*.js, static_src/scripts/*.js, *.py",
+			"*.html",
+			"*.scss",
+			"*.html",
+			"*.js",
+			"templates/*.html, templates/**/*.html, static_src/**/*.scss, static_src/components/**/*.js, static_src/scripts/*.js, *.py",
+			"*.html",
+			"*.js",
+			"",
+			"templates/*.html, templates/**/*.html, static_src/**/*.scss, static_src/components/**/*.js, static_src/scripts/*.js, *.py",
+			"*.js",
+			"*.html",
+			"*.scss",
+			"*.html",
+			"*.js",
+			"*.scss",
+			"templates/*.html, templates/**/*.html, static_src/**/*.scss, static_src/components/**/*.js, static_src/scripts/*.js, *.py",
+			"*.js",
+			"*.py",
+			" templates/*.html",
+			" templates/*.html, templates/**/*.html, static_src/**/*.scss, static_src/components/**/*.js, static_src/scripts/*.js, *.py",
+			" *.py",
+			"templates/*.html, templates/**/*.html, static_src/**/*.scss, static_src/components/**/*.js, static_src/scripts/*.js, *.py",
+			"*.py",
+			"templates/*.html, templates/**/*.html, static_src/**/*.scss, static_src/components/**/*.js, static_src/scripts/*.js, *.py",
+			"*.html",
+			"*.scss",
+			"*.html",
+			"*.py",
+			"",
+			"templates/*.html, templates/**/*.html, static_src/**/*.scss, static_src/components/**/*.js, static_src/scripts/*.js, *.py",
+			"static_src/components/**/*.js, static_src/scripts/*.js, *.py",
+			"templates/*.html, templates/**/*.html, static_src/**/*.scss, static_src/components/**/*.js, static_src/scripts/*.js, *.py",
+			"*.js",
+			"*.scss",
+			"*.css",
+			"*.scss",
+			"*.js",
+			"templates/*.html, templates/**/*.html, static_src/**/*.scss, static_src/components/**/*.js, static_src/scripts/*.js, *.py",
+			"node_modules/backstopjs/*",
+			"templates/*.html, templates/**/*.html, static_src/*.scss, static_src/**/*.scss, static_src/components/**/*.js, static_src/scripts/*.js, *.py",
+			"templates/*.html, templates/**/*.html, static_src/**/*.scss, static_src/components/**/*.js, static_src/scripts/*.js, *.py",
+			"templates/*.html, templates/**/*.html, static_src/components/**/*.js, static_src/scripts/*.js",
+			"templates/*.html, templates/**/*.html, static_src/**/*.scss, static_src/components/**/*.js, static_src/scripts/*.js, *.py",
+			"templates/*.html, templates/**/*.html",
+			"*.py",
+			"templates/*.html, templates/**/*.html",
+			"*.html",
+			"static_src/components/**/*.js, static_src/scripts/*.js, *.py",
+			"templates/*.html, templates/**/*.html, static_src/**/*.scss, static_src/components/**/*.js, static_src/scripts/*.js, *.py",
+			"templates/*.html, templates/**/*.html, static_src/components/**/*.js, static_src/scripts/*.js, *.py",
+			"templates/*.html, templates/**/*.html, static_src/**/*.scss, static_src/components/**/*.js, static_src/scripts/*.js, *.py",
+			"templates/*.html, templates/**/*.html,  static_src/components/**/*.js, static_src/scripts/*.js, *.py",
+			"templates/*.html, templates/**/*.html, static_src/**/*.scss, static_src/components/**/*.js, static_src/scripts/*.js, *.py",
+			"templates/*.html, templates/**/*.html, static_src/components/**/*.scss, static_src/components/**/*.js, static_src/scripts/*.js, *.py",
+			"templates/**/*.html, static_src/components/**/*.scss, static_src/components/**/*.js, static_src/scripts/*.js, *.py",
+			"templates/**/*.html, static_src/components/**/*.js, static_src/scripts/*.js, *.py",
+			"templates/**/*.html, static_src/components/**/*.js, static_src/scripts/**/*.js, *.py",
+			"templates/**/*.html, static_src/components/**/*.js, *.py",
+			"templates/**/*.html, static_src/components/**/*.js",
+			"*.js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"landing",
+			"support-link",
+			"there is a problem with your",
+			"remove",
+			"reorder",
+			"h2",
+			"filterListById",
+			"onRemoveButtonClick",
+			"endpoint",
+			"fetchVideoList",
+			"watclist-sortable",
+			"/react-video-list",
+			"25px",
+			"25p",
+			"$yellow",
+			"blue-muted",
+			"17px",
+			"float: left;",
+			"passportStation",
+			"max-width",
+			"passport__text",
+			"membershipsText",
+			"0",
+			"class=\"congrats",
+			"page-wrapper__inner",
+			"$passport-width",
+			"label",
+			"that email address is not",
+			"checkValidity",
+			"successMessage",
+			"lookupButton.find('.buttonDefault')",
+			"$('.buttonSpinner')",
+			"registerButton",
+			"$('.errorMessages')",
+			"errorPlace",
+			"passport-form",
+			"form__lookup",
+			"-form",
+			"lookup-form",
+			"label",
+			"$passport-width",
+			"passport__sign-in",
+			"socialLoginPanel",
+			"disclaimer",
+			"lastScreen",
+			"mvodSupportText",
+			"plusMedium",
+			"mvodSupportTextActivation",
+			"emails",
+			"passport-logo",
+			"h4",
+			"h3",
+			"login",
+			"class=\"login",
+			"selectStation",
+			"noPadding",
+			"mvodDefault",
+			"error",
+			"activation-transparent",
+			"already been used",
+			"findStation",
+			"$passport-width",
+			"$tall",
+			"confirm-buttons",
+			"station-logo-fallback",
+			"has-fallback",
+			"station-logo-fallback",
+			"station-logo",
+			"stationImage",
+			"title",
+			"tokeninput",
+			"signIn",
+			"SignIn",
+			"auto",
+			"sign-in",
+			"body",
+			"headerActivateText",
+			".find(",
+			"passportHeader",
+			"loadingOverlay",
+			"label",
+			"button",
+			"buttonError",
+			"errorMessages",
+			"$('#tokeninput').val()",
+			"tokeninput",
+			"activationForm",
+			"errorMessages",
+			"enterCode",
+			"plusMedium",
+			"lastScreen",
+			"firstScreen",
+			"activationScreen",
+			"passport",
+			"#passport",
+			"activationScreen",
+			"enterCode",
+			"codeValid",
+			"$('.buttonSpinner')",
+			"$('.buttonDefault')",
+			"buttonDefault",
+			"errorPlace",
+			"$('.errorMessages')",
+			"$('#tokeninput')",
+			"$('.errorMessages')",
+			"tokeninput",
+			"WHEN-COURSE",
+			"callLetters",
+			"weta",
+			"callLetters",
+			"process_image",
+			"membership_images",
+			"membership_data",
+			"login",
+			"fsr.s",
+			"preventOv",
+			"preventOverlays",
+			"video.",
+			"www.facebook.com/sharer",
+			"title",
+			"ga(",
+			"video landing",
+			"Video Landing",
+			"pbs-icons",
+			"local",
+			"gtm_action",
+			"include 'video/grid/video.html'",
+			"gtm_position"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"passport__form",
+			"$gap-half",
+			"gap",
+			"line-height",
+			"gap-demi",
+			"border-radius: $radius;",
+			"video/grid/",
+			"video-group",
+			"isViewportOver",
+			"isOverMdSize(1024)",
+			"require('../components/page-header/js/page-header');",
+			"require('../components/page-header/page-header/js/page-header');",
+			".donate_url }}",
+			"station_info.donate_url",
+			"@import \".",
+			"@import \"./includes\";",
+			"show-videos-list.html",
+			"popular-videos-list.html",
+			"closed-captioning.html",
+			"base-normal.html",
+			"viewing-history.html",
+			"favorite-shows.html",
+			"video-landing.html",
+			"enable_hidden_show_title",
+			"disable_popover",
+			"header_level",
+			"disable_over_title",
+			"target=\"_blank\"",
+			"<p>",
+			"passport__body",
+			"donate-link",
+			"modalbtnClose",
+			"btn--close",
+			"\"'\" + settings.GOOGLE_DFP_MOBILE + \"",
+			"\"'\" + settings.GOOGLE_DFP_DESKTOP + \"",
+			"video_list",
+			"",
+			"adhesion_slot",
+			"ad_slots",
+			"container=1",
+			"container=\"true\"",
+			"'",
+			"{% include 'ads/ads.html' with ad_id=\"leaderboard-billboard\" container=true %}",
+			"{% include 'ads/ads.html' with ad_id=\"billboard\" container=true %}",
+			"{% include \"ads/ads.html\" with ad_id=\"medium-rectangle-half-page\" %}",
+			"medium-rectangle-half-page",
+			"leaderboard-billboard",
+			"ads-leaderboard-billboard.html",
+			"ads-medium-rectangle-half-page.html",
+			"class=\"passport-logo\" alt=\"\"",
+			"class=\"passport-logo__station\"",
+			"passport-logo",
+			"class=\"passportStation\"",
+			"{% load load_json",
+			"class=\"user-name\"",
+			"$gray-primary",
+			"after_common_js",
+			"before_common_js",
+			"{%  include 'page-header/",
+			"{% endblock pagescript_2 %}",
+			"{% block pagescript_2 %}",
+			"% include 'page-header",
+			"bodyclass %",
+			"$gray-light",
+			"",
+			"$",
+			"background: $gray-light",
+			"$white",
+			"$gray-light",
+			"$white",
+			"$blue-muted",
+			"$black",
+			"$gray-primary",
+			"$gray-lighter",
+			"$white"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1921,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1291.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "devServer.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 613,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 164.0
+	},
+	"pinned_build_system": "",
+	"project": "learnredux.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"button",
+				"pbsorg/static_src/sass/global/_buttons.scss"
+			],
+			[
+				"passportform",
+				"pbsorg/static_src/components/passport/sass/_passport-form.scss"
+			],
+			[
+				"pages.",
+				"pbsorg/pages.py"
+			],
+			[
+				"passportpy",
+				"pbsorg/views/passport.py"
+			],
+			[
+				"cong",
+				"pbsorg/templates/passport/congrats.html"
+			],
+			[
+				"passportjs",
+				"pbsorg/static_src/scripts/passport.js"
+			],
+			[
+				"passportshar",
+				"pbsorg/static_src/components/passport/sass/_passport-shared.scss"
+			],
+			[
+				"passp",
+				"pbsorg/views/passport.py"
+			],
+			[
+				"watchlisthtml",
+				"pbsorg/templates/watchlist/watchlist.html"
+			],
+			[
+				"watchlistscss",
+				"pbsorg/static_src/components/watchlist/watchlist.scss"
+			],
+			[
+				"watchistscss",
+				"pbsorg/static_src/sass/watchlist.scss"
+			],
+			[
+				"watc",
+				"pbsorg/static_src/components/watchlist/watchlist.js"
+			],
+			[
+				"watchlist",
+				"pbsorg/static_src/scripts/watchlist.js"
+			],
+			[
+				"login",
+				"pbsorg/templates/passport/login.html"
+			],
+			[
+				"varia",
+				"pbsorg/static_src/sass/includes/_variables.scss"
+			],
+			[
+				"activ",
+				"pbsorg/templates/passport/activation.html"
+			],
+			[
+				"passportfor",
+				"pbsorg/static_src/components/passport/sass/_passport-form.scss"
+			],
+			[
+				"passporthead",
+				"pbsorg/static_src/components/passport/sass/_passport-header.scss"
+			],
+			[
+				"heade",
+				"pbsorg/static_src/components/search-results/sass/_header.scss"
+			],
+			[
+				"shared",
+				"pbsorg/static_src/components/passport/sass/_passport-shared.scss"
+			],
+			[
+				"congra",
+				"pbsorg/static_src/components/passport/sass/_passport-congrats.scss"
+			],
+			[
+				"conga",
+				"pbsorg/templates/passport/congrats.html"
+			],
+			[
+				"passportscs",
+				"pbsorg/static_src/components/passport/sass/_passport-shared.scss"
+			],
+			[
+				"confir",
+				"pbsorg/templates/passport/login_confirm.html"
+			],
+			[
+				"passportshare",
+				"pbsorg/static_src/components/passport/sass/_passport-shared.scss"
+			],
+			[
+				"stationsc",
+				"pbsorg/static_src/components/passport/sass/_passport-station-container.scss"
+			],
+			[
+				"sett",
+				"pbsorg/settings.py"
+			],
+			[
+				"congratss",
+				"pbsorg/static_src/components/passport/sass/_passport-congrats.scss"
+			],
+			[
+				"buttons",
+				"pbsorg/static_src/sass/global/_buttons.scss"
+			],
+			[
+				"conra",
+				"pbsorg/templates/passport/congrats.html"
+			],
+			[
+				"passport-",
+				"pbsorg/static_src/components/passport/sass/_passport-congrats.scss"
+			],
+			[
+				"passportsc",
+				"pbsorg/static_src/sass/passport.scss"
+			],
+			[
+				"lookuphtm",
+				"pbsorg/templates/passport/lookup.html"
+			],
+			[
+				"lookup",
+				"pbsorg/static_src/components/passport/sass/_passport-lookup.scss"
+			],
+			[
+				"stationcont",
+				"pbsorg/static_src/components/passport/sass/_passport-station-container.scss"
+			],
+			[
+				"activa",
+				"pbsorg/templates/passport/activation.html"
+			],
+			[
+				"congrassc",
+				"pbsorg/static_src/components/passport/sass/_passport-congrats.scss"
+			],
+			[
+				"cognra",
+				"pbsorg/templates/passport/congrats.html"
+			],
+			[
+				"lookupjs",
+				"pbsorg/static_src/scripts/passport-lookup.js"
+			],
+			[
+				"var",
+				"pbsorg/static_src/sass/includes/_variables.scss"
+			],
+			[
+				"congrats.sc",
+				"pbsorg/static_src/components/passport/sass/_passport-congrats.scss"
+			],
+			[
+				"forms",
+				"pbsorg/static_src/sass/global/_forms.scss"
+			],
+			[
+				"passport.js",
+				"pbsorg/static_src/scripts/passport.js"
+			],
+			[
+				"lookupscs",
+				"pbsorg/static_src/components/passport/sass/_passport-lookup.scss"
+			],
+			[
+				"passport",
+				"pbsorg/static_src/sass/passport.scss"
+			],
+			[
+				"base",
+				"pbsorg/templates/passport/base.html"
+			],
+			[
+				"acti",
+				"pbsorg/templates/passport/activation.html"
+			],
+			[
+				"vari",
+				"pbsorg/static_src/sass/includes/_variables.scss"
+			],
+			[
+				"elli",
+				"pbsorg/static_src/images/ellipsis.svg"
+			],
+			[
+				"colors",
+				"pbsorg/static_src/sass/includes/_colors.scss"
+			],
+			[
+				"passportlook",
+				"pbsorg/static_src/scripts/passport-lookup.js"
+			],
+			[
+				"passporthtml",
+				"pbsorg/templates/passport/activation.html"
+			],
+			[
+				"passporthtm",
+				"pbsorg/templates/passport-landing.html"
+			],
+			[
+				"close",
+				"pbsorg/templates/closed-captioning.html"
+			],
+			[
+				"footer",
+				"pbsorg/templates/page-footer/footer.html"
+			],
+			[
+				"inclu",
+				"pbsorg/static_src/sass/_includes.scss"
+			],
+			[
+				"globa",
+				"pbsorg/static_src/sass/global.scss"
+			],
+			[
+				"verrti",
+				"pbsorg/templates/verticals/verticals.html"
+			],
+			[
+				"home",
+				"pbsorg/templates/home.html"
+			],
+			[
+				"videoblock",
+				"pbsorg/templates/video/block/video.html"
+			],
+			[
+				"user",
+				"pbsorg/templates/page-header/user.html"
+			],
+			[
+				"popover",
+				"pbsorg/templates/video/popover/video.html"
+			],
+			[
+				"anala",
+				"pbsorg/templates/analytics/analytics.html"
+			],
+			[
+				"social.js",
+				"pbsorg/static_src/components/social-media/social-media.js"
+			],
+			[
+				"videopy",
+				"pbsorg/views/video.py"
+			],
+			[
+				"glob",
+				"pbsorg/static_src/sass/global.scss"
+			],
+			[
+				"typ",
+				"pbsorg/static_src/sass/global/_type.scss"
+			],
+			[
+				"filterform",
+				"pbsorg/static_src/components/show/filter-form/show-filter-bar.js"
+			],
+			[
+				"showbar",
+				"pbsorg/templates/show/bar/show.html"
+			],
+			[
+				"show.ht",
+				"pbsorg/templates/show.html"
+			],
+			[
+				"videohtm",
+				"pbsorg/templates/video/player/video.html"
+			],
+			[
+				"headeruser",
+				"pbsorg/templates/page-header/user.html"
+			],
+			[
+				"showfilt",
+				"pbsorg/static_src/components/show/filter-form/show-filter-bar.js"
+			],
+			[
+				"inc",
+				"pbsorg/static_src/sass/_includes.scss"
+			],
+			[
+				"videogrid",
+				"pbsorg/templates/video/grid/video.html"
+			],
+			[
+				"videolan",
+				"pbsorg/templates/video-landing.html"
+			],
+			[
+				"summa",
+				"pbsorg/templates/video/summary/video.html"
+			],
+			[
+				"videocar",
+				"pbsorg/templates/carousel/video-landing/carousel.html"
+			],
+			[
+				"headersearc",
+				"pbsorg/templates/page-header/search.html"
+			],
+			[
+				"header",
+				"pbsorg/templates/page-header/header.html"
+			],
+			[
+				"storefeat",
+				"pbsorg/templates/store/featured.html"
+			],
+			[
+				"showstrip",
+				"pbsorg/templates/carousel/show-strip/carousel.html"
+			],
+			[
+				"smooths",
+				"pbsorg/static_src/scripts/_smooth-scrolling.js"
+			],
+			[
+				"verticaljs",
+				"pbsorg/static_src/components/carousel/verticals/carousel.js"
+			],
+			[
+				"vertica",
+				"pbsorg/templates/verticals/verticals.html"
+			],
+			[
+				"shop",
+				"pbsorg/templates/page-header/shop.html"
+			],
+			[
+				"showsht",
+				"pbsorg/templates/page-header/shows.html"
+			],
+			[
+				"schedule",
+				"pbsorg/templates/schedule/schedule.html"
+			],
+			[
+				"station",
+				"pbsorg/templates/station/station.html"
+			],
+			[
+				"tvshe",
+				"pbsorg/templates/page-header/tv_schedules.html"
+			],
+			[
+				"headerht",
+				"pbsorg/templates/page-header/header.html"
+			],
+			[
+				"stationht",
+				"pbsorg/templates/page-header/station.html"
+			],
+			[
+				"headeuserht",
+				"pbsorg/templates/page-header/user.html"
+			],
+			[
+				"userscs",
+				"pbsorg/static_src/components/page-header/sass/user.scss"
+			],
+			[
+				"mixin",
+				"pbsorg/static_src/sass/includes/_mixins.scss"
+			],
+			[
+				"blockscs",
+				"pbsorg/static_src/components/video/block/video.scss"
+			],
+			[
+				"repor",
+				"pbsorg/templates/video/report_problem.html"
+			],
+			[
+				"modal",
+				"pbsorg/static_src/components/modal/modal.js"
+			],
+			[
+				"heavy",
+				"pbsorg/templates/modal-window/heavy-traffic.html"
+			],
+			[
+				"campaignht",
+				"pbsorg/templates/page-header/modal_campaign.html"
+			],
+			[
+				"emb",
+				"pbsorg/templates/video/player/embed-modal.html"
+			],
+			[
+				"modalht",
+				"pbsorg/templates/page-header/modal_window.html"
+			],
+			[
+				"signin",
+				"pbsorg/templates/sign-in/sign-in.html"
+			],
+			[
+				"videohtml",
+				"pbsorg/templates/video/player/video.html"
+			],
+			[
+				"report-a",
+				"pbsorg/static_src/components/video/forms/report-a-problem.js"
+			],
+			[
+				"videoplayerjs",
+				"pbsorg/static_src/components/video/player/video.js"
+			],
+			[
+				"report",
+				"pbsorg/templates/video/report_problem.html"
+			],
+			[
+				"showcarousescs",
+				"pbsorg/static_src/components/carousel/show/carousel.scss"
+			],
+			[
+				"progres",
+				"pbsorg/static_src/sass/global/_progress-bars.scss"
+			],
+			[
+				"incl",
+				"pbsorg/static_src/sass/_includes.scss"
+			],
+			[
+				"campaign",
+				"pbsorg/static_src/components/campaign-modal/campaign-modal.scss"
+			],
+			[
+				"christ",
+				"pbsorg/static_src/components/christmas-campaign/christmas-campaign.scss"
+			],
+			[
+				"print",
+				"pbsorg/static_src/sass/global/_print.scss"
+			],
+			[
+				"progressba",
+				"pbsorg/static_src/sass/global/_progress-bars.scss"
+			],
+			[
+				"componenta",
+				"pbsorg/static_src/sass/global/_component-animations.scss"
+			],
+			[
+				"basescs",
+				"pbsorg/static_src/sass/global/_base.scss"
+			],
+			[
+				"gridscs",
+				"pbsorg/static_src/sass/global/_grid.scss"
+			],
+			[
+				"normaliz",
+				"pbsorg/static_src/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_normalize.scss"
+			],
+			[
+				"responsiveut",
+				"pbsorg/static_src/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_responsive-utilities.scss"
+			],
+			[
+				"modals",
+				"pbsorg/static_src/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_modals.scss"
+			],
+			[
+				"glo",
+				"pbsorg/static_src/sass/global.scss"
+			],
+			[
+				"progre",
+				"pbsorg/static_src/bower_components/jquery-ui/themes/base/progressbar.css"
+			],
+			[
+				"componentani",
+				"pbsorg/static_src/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_component-animations.scss"
+			],
+			[
+				"grid",
+				"pbsorg/static_src/sass/global/_grid.scss"
+			],
+			[
+				"scaffo",
+				"pbsorg/static_src/sass/global/_scaffolding.scss"
+			],
+			[
+				"stationscs",
+				"pbsorg/static_src/components/station/station.scss"
+			],
+			[
+				"type",
+				"pbsorg/static_src/sass/global/_type.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/React-For-Beginners-Starter-Files/catch-of-the-day/catchoftheday.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 67.0,
+		"last_filter": "buildad",
+		"selected_items":
+		[
+			[
+				"buildad",
+				"build_ad_slot"
+			],
+			[
+				"page head",
+				".page-header"
+			],
+			[
+				"nav-",
+				"&__nav-items"
+			],
+			[
+				"page-head",
+				".page-header"
+			],
+			[
+				"nav-i",
+				"&__nav-items"
+			],
+			[
+				"body",
+				"&__body"
+			],
+			[
+				"page h",
+				"page-header__nav-items"
+			]
+		],
+		"width": 745.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 362.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
