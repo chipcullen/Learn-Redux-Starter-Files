@@ -1,8 +1,23 @@
 {
-	"folders":
-	[
-		{
-			"path": "."
-		}
-	]
+  "folders":
+  [
+    {
+      "path": ".",
+      "folder_exclude_patterns": [
+        ".git",
+        "__pycache__",
+        "pbsorg.egg-info",
+        "build",
+        "dist",
+        ".cache",
+        "node_modules",
+        "backstop_data"
+      ],
+      "file_exclude_patterns" : [
+        "__init__.py",
+        ".bowerrc",
+        "MANIFEST.in"
+      ]
+    }
+  ]
 }
